@@ -1,0 +1,58 @@
+.navb{
+    background-color:rgb(38, 52, 54);
+    height: 70px;  
+}
+
+.napis{
+    color:rgb(221, 71, 71);
+    margin-left:1.4rem;
+    display:inline-flex;
+    margin-top: 1rem;
+}
+.napis1{
+    border-bottom: solid rgb(206, 72, 72) 2px;
+    color:rgb(230, 213, 213);
+    margin-left:1.4rem;
+    display:inline-flex;
+    margin-top: 1rem;
+}
+.ramka1{
+    border:rgb(15, 6, 6) solid 2px;
+    width: 500px;
+    margin-top: -3rem;
+    margin-left: 12rem;
+    height: 115px;
+    background-color: rgb(250, 243, 243);
+}
+.ramka{
+    margin-top: 5rem;
+}
+.text{
+    color: rgb(219, 124, 140);
+    text-align: center ;
+    padding-top: 2rem;
+    font-weight: 220;
+}
+.grid{
+    max-width: 175vh;
+    margin: 0 auto 0 auto;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: auto auto;
+    grid-gap: 21px;
+    margin-top:4rem;
+    background-color: rgb(255, 255, 255);
+}
+.grid2{
+    height: auto;
+    width: auto;
+    border: 1px solid rgb(15, 12, 12);
+    box-shadow: 1px 5px 9px 3px rgba(34, 29, 29, 0.726);
+    padding: 22px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
